@@ -6,4 +6,4 @@ return "hello {name}" """
 def hello(name: str) -> str:
     #your code here
 
-    
+    return "hello "+name
