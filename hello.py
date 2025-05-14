@@ -2,5 +2,4 @@
 
 def hello(name : str) -> str:
     #your code here
-
-    
+    pass
